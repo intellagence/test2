@@ -8,11 +8,13 @@
 
 _Entouré d'un underscore, texte en italic_
 
-> Débutant par un chevron '>', c'est pour écrire une ligne de code
+> Citation Niveau 1
+>> Citation Niveau 2
 
 
 ```
-Entouré de 3 petites quotes,
+    Entouré de 3 accents graves,
+    écrire du code
 
 
 ```
