@@ -21,13 +21,7 @@ _Entouré d'un underscore, texte en italic_
 
 
 # Sommaire
-- [Avec 1 dièse, c'est le titre Niveau 1](#avec-1-dièse-cest-le-titre-niveau-1)
-  - [Avec 2 dièses, c'est le titre Niveau 2](#avec-2-dièses-cest-le-titre-niveau-2)
-    - [Avec 3 dièses, c'est le titre Niveau 3](#avec-3-dièses-cest-le-titre-niveau-3)
-- [Sommaire](#sommaire)
-- [Le projet](#le-projet)
-  - [Technologies](#technologies)
-  - [Base de données](#base-de-données)
+
 
 
 # Le projet
