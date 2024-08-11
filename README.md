@@ -25,13 +25,12 @@ _Entouré d'un underscore, texte en italic_
   - [Avec 2 dièses, c'est le titre Niveau 2](#avec-2-dièses-cest-le-titre-niveau-2)
     - [Avec 3 dièses, c'est le titre Niveau 3](#avec-3-dièses-cest-le-titre-niveau-3)
 - [Sommaire](#sommaire)
-- [TEST](#test)
 - [Le projet](#le-projet)
   - [Technologies](#technologies)
   - [Base de données](#base-de-données)
 
 
-# TEST
+
 # Le projet
 
 Le projet **Ecommerce** est un projet pédagogique pour la soutenance au titre de Développeur Web & Web mobile réalisé sur **Symfony 7** 
